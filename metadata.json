@@ -1,0 +1,8 @@
+{
+  "name": "Remix أداة تحويل الملفات والنصوص المحلية",
+  "description": "أداة هولوغرافية مستقبلية لتحويل ومعالجة النصوص والملفات والصور محلياً 100% داخل المتصفح بأقصى درجات الخصوصية والأداء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
